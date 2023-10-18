@@ -53,21 +53,23 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
-## Data Head
+## Data Head :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/2511f197-1c54-424f-ac27-592b84c721d2)
-## Null Data
+## Null Values :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/7e35ffbf-7615-4674-bc63-ae26e1ca24d5)
-## Value Count
+## Assignment of X value :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/c815b43f-7465-4be3-afdb-e5e0f6297fe2)
-## Head Data
+## Assignment of Y value :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/1c13ff1b-071f-40b0-ae7b-beb22f23798e)
-## X data
+## Converting string literals to numerical values using label encoder :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/d6e369db-af68-4565-adb3-a8f5ee19fe9a)
-## Accuracy
+## Accuracy :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/aff7b940-f7a9-4161-8690-babd7dd4a70b)
-## Predict
+## Prediction :
 ![image](https://github.com/R-Udayakumar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118708024/813140ca-4a3a-49bc-92a3-6970d9306272)
 
+## RESULT:
+Thus the program to implement the Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
 
 
 
